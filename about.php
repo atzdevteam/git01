@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>git01</title>
+	<title>about</title>
 </head>
 <body>
-git01 test22222
+about test
 </body>
 </html>
